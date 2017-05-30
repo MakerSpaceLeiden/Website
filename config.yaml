@@ -3,5 +3,5 @@
 baseURL: http://space.makerspaceleiden.nl/hugo/
 languageCode:  "en-us"
 title: "MakerSpace Leiden" 
-
+DisableRSS: true 
 ...
