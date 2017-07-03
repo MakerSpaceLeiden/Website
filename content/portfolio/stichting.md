@@ -7,9 +7,7 @@ title = "De stichting"
 weight = 50
 +++
 
-De organisatie
-
-MakerSpace Leiden is een stichting, onze formele naam is Stichting MakerSpace Leiden. Onze statuten staan hier online.
+MakerSpace Leiden is een stichting, onze formele naam is Stichting MakerSpace Leiden. 
 
 <!--more-->
 
