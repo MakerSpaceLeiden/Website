@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://make.vijn.org/portfolio/about_msl/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://make.vijn.org/portfolio/deelnemen/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://make.vijn.org/portfolio/stichting/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://make.vijn.org/home/home/</loc>
     <lastmod>2017-06-23T10:15:22+02:00</lastmod>
   </url>
@@ -13,12 +28,7 @@
   </url>
   
   <url>
-    <loc>http://make.vijn.org/portfolio/work1/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://make.vijn.org/portfolio/work2/</loc>
+    <loc>http://make.vijn.org/portfolio/mailing_lists/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
@@ -33,7 +43,7 @@
   
   <url>
     <loc>http://make.vijn.org/</loc>
-    <lastmod>2017-06-23T10:15:22+02:00</lastmod>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>

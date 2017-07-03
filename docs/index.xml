@@ -7,10 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>all rigths reserved</copyright>
-    <lastBuildDate>Fri, 23 Jun 2017 10:15:22 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://make.vijn.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>de MakerSpace</title>
+      <link>http://make.vijn.org/portfolio/about_msl/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://make.vijn.org/portfolio/about_msl/</guid>
+      <description>&lt;p&gt;De MakerSpace is een ruimte waar mensen met gemeenschappelijke interesse, meestal in wetenschap, technologie, digitale en elektronische kunst elkaar kunnen ontmoeten en samenwerken.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deelnemerschap</title>
+      <link>http://make.vijn.org/portfolio/deelnemen/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://make.vijn.org/portfolio/deelnemen/</guid>
+      <description>&lt;p&gt;Als deelnemer kun je aan je eigen of gezamenlijke projecten werken in de MakerSpace, eventueel samen met andere deelnemers, en kennis en ervaring delen.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>De stichting</title>
+      <link>http://make.vijn.org/portfolio/stichting/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://make.vijn.org/portfolio/stichting/</guid>
+      <description>&lt;p&gt;De organisatie&lt;/p&gt;
+
+&lt;p&gt;MakerSpace Leiden is een stichting, onze formele naam is Stichting MakerSpace Leiden. Onze statuten staan hier online.
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>home</title>
@@ -22,28 +56,14 @@
     </item>
     
     <item>
-      <title>Gayatri Mantra</title>
-      <link>http://make.vijn.org/portfolio/work1/</link>
+      <title>Contact</title>
+      <link>http://make.vijn.org/portfolio/mailing_lists/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://make.vijn.org/portfolio/work1/</guid>
-      <description>Savitur is ontleend aan de gayatri mantra, die ik vrijwel dagelijks zing.
-Savitur betekent &amp;ldquo;De ware aard die het bestaan verlicht&amp;rdquo;.
-Het is voor mij als een focus punt, geleend van de gayatri mantra:
-Om Bhur Bhuvah Svaha Tat Savitur Varenyam Bhargo Devasya Dhimahi Dhiyo Yo nah Prachodayat Een mogelijke vertaling kan zijn als (onder andere):
-Door alle lagen van ervaring heen is
-Dat, de ware aard die het bestaan verlicht, het allerhoogste Ene.</description>
-    </item>
-    
-    <item>
-      <title>Samen Zitten</title>
-      <link>http://make.vijn.org/portfolio/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>http://make.vijn.org/portfolio/work2/</guid>
-      <description>Ik zit dagelijkss, meestal alleen en soms samen.
-Wil je een keer aanschuiven en samen zitten?
-Kijk even op StadsVerlichting voor de agenda.</description>
+      <guid>http://make.vijn.org/portfolio/mailing_lists/</guid>
+      <description>&lt;p&gt;Onze communicatie verloop metname via email.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
