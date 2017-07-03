@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on MakerSpace Leiden</title>
+    <link>http://make.vijn.org/portfolio/</link>
+    <description>Recent content in Portfolios on MakerSpace Leiden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>all rigths reserved</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://make.vijn.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gayatri Mantra</title>
+      <link>http://make.vijn.org/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://make.vijn.org/portfolio/work1/</guid>
+      <description>Savitur is ontleend aan de gayatri mantra, die ik vrijwel dagelijks zing.
+Savitur betekent &amp;ldquo;De ware aard die het bestaan verlicht&amp;rdquo;.
+Het is voor mij als een focus punt, geleend van de gayatri mantra:
+Om Bhur Bhuvah Svaha Tat Savitur Varenyam Bhargo Devasya Dhimahi Dhiyo Yo nah Prachodayat Een mogelijke vertaling kan zijn als (onder andere):
+Door alle lagen van ervaring heen is
+Dat, de ware aard die het bestaan verlicht, het allerhoogste Ene.</description>
+    </item>
+    
+    <item>
+      <title>Samen Zitten</title>
+      <link>http://make.vijn.org/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://make.vijn.org/portfolio/work2/</guid>
+      <description>Ik zit dagelijkss, meestal alleen en soms samen.
+Wil je een keer aanschuiven en samen zitten?
+Kijk even op StadsVerlichting voor de agenda.</description>
+    </item>
+    
+  </channel>
+</rss>

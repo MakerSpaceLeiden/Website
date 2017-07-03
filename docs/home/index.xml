@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on MakerSpace Leiden</title>
+    <link>http://make.vijn.org/home/</link>
+    <description>Recent content in Homes on MakerSpace Leiden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>all rigths reserved</copyright>
+    <lastBuildDate>Fri, 23 Jun 2017 10:15:22 +0200</lastBuildDate>
+    
+	<atom:link href="http://make.vijn.org/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>home</title>
+      <link>http://make.vijn.org/home/home/</link>
+      <pubDate>Fri, 23 Jun 2017 10:15:22 +0200</pubDate>
+      
+      <guid>http://make.vijn.org/home/home/</guid>
+      <description>chap 1 this text..</description>
+    </item>
+    
+  </channel>
+</rss>
