@@ -8,7 +8,7 @@ weight = 0
 +++
 
 
-Onze communicatie verloop metname via email.
+Onze communicatie verloop met name via email.
 
 <!--more-->
 
