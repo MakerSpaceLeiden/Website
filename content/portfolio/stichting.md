@@ -10,6 +10,7 @@ weight = 50
 De organisatie
 
 MakerSpace Leiden is een stichting, onze formele naam is Stichting MakerSpace Leiden. Onze statuten staan hier online.
+
 <!--more-->
 
 De stichting regelt de formele contacten, contracten en overeenkomsten. De deelnemende makers hebben een stem in de deelnemersraad; hier wordt beslist over het de dagelijkse zaken van de makerspace en eigen projecten.
@@ -17,12 +18,10 @@ De stichting regelt de formele contacten, contracten en overeenkomsten. De deeln
 De bestuursleden zijn,
 
 * Hugo Meiland
-
 * Hans Stroes
-
 * Marten Vijn
 
-Het bestuur is bereikbaar via bestuur_at_makerspaceleiden.nl of via het contact formulier.
+Het bestuur is bereikbaar via bestuur_at_makerspaceleiden.nl.
 
 * triodos bank
 NL30 TRIO 0197 6945 19
