@@ -6,7 +6,7 @@ date = "2016-11-05T18:25:22+05:30"
 title = "de MakerSpace"
 weight = 40
 +++
-hans
+
 De MakerSpace is een ruimte waar mensen met gemeenschappelijke interesse, meestal in wetenschap, technologie, digitale en elektronische kunst elkaar kunnen ontmoeten en samenwerken. 
 
 <!--more-->
